@@ -1,0 +1,10 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@Ajax.ActionLink("Get Data", "ShowNews", "News", new AjaxOptions { OnSuccess = "GetData" })
+
+

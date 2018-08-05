@@ -1,0 +1,11 @@
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\bin\Debug\RssReader.DAL.dll.config
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\bin\Debug\RssReader.DAL.dll
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\bin\Debug\RssReader.DAL.pdb
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\obj\Debug\RssReader.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\obj\Debug\RssReader.DAL.csproj.CopyComplete
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\obj\Debug\RssReader.DAL.dll
+C:\Users\Rialon\source\repos\RssReader\RssReader.DAL\obj\Debug\RssReader.DAL.pdb

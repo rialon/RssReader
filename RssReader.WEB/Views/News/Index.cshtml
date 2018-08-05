@@ -1,0 +1,26 @@
+﻿@model RssReader.WEB.Models.NewsParametersViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Новостная лента</h2>
+
+<div class="card card-body bg-light col-lg-6" style="margin-bottom:100px">
+    @using (Html.BeginForm()) {
+        <div class="form-group row">
+            @Html.Label("Источник ленты", new { @class = "col-form-label col-3" })
+            @Html.DropDownList("SourceId", Model.SourcesList, "Все", new { @class = "form-control", id = "sourceList" })
+        </div>
+        <div class="form-group row">
+            @Html.RadioButtonFor(model => model.IsDateSorted, "true") Сортировать по дате
+            @Html.RadioButtonFor(model => model.IsDateSorted, "false") Сортировать по источнику
+        </div>
+        @Ajax.ActionLink("Просмотреть", "ShowNews", "News", new { sourceId = Model.SourceId, isDate = Model.IsDateSorted }, new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "newsTable", OnSuccess= "AddNavParameters" }, new { id = "newsLink", @class = "btn btn-primary col-sm-4 text-lg-center" })
+    }
+</div>
+
+<div id="newsTable">
+
+</div>
+

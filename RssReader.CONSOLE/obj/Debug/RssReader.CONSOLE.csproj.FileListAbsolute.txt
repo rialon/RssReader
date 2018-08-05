@@ -1,0 +1,17 @@
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\RssReader.CONSOLE.exe.config
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\RssReader.CONSOLE.exe
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\RssReader.CONSOLE.pdb
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\Ninject.dll
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\RssReader.DAL.dll
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\EntityFramework.dll
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\RssReader.DAL.pdb
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\RssReader.DAL.dll.config
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\Ninject.xml
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\EntityFramework.xml
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\obj\Debug\RssReader.CONSOLE.csprojResolveAssemblyReference.cache
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\obj\Debug\RssReader.CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\obj\Debug\RssReader.CONSOLE.csproj.CopyComplete
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\obj\Debug\RssReader.CONSOLE.exe
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\obj\Debug\RssReader.CONSOLE.pdb
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rialon\source\repos\RssReader\RssReader.CONSOLE\bin\Debug\EntityFramework.SqlServer.xml
